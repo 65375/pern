@@ -2,23 +2,19 @@
 
 Repositório para armazenar backbone de um projeto baseado na arquitetura de microserviços. Utilizando node, react e react native.
 
-## API branchs
+## Libs 
 
-- apiInicial
-- apiCrudMemória
-- apiCrudLibPG
-- apiTypeOrm
+- Nodejs
+- Express
+- ESM
+- Nodemon
 
-## FrontEnd Web branchs
+### Executando
 
--
--
--
+`npm init`
 
-## FrontEnd Mobile branchs
+`npm install cors express nodemon`
 
--
--
--
+`npm install`
 
-
+`npm run dev`
