@@ -8,6 +8,7 @@ Repositório para armazenar backbone de um projeto baseado na arquitetura de mic
 - apiCrudMemória
 - apiCrudLibPG
 - apiTypeOrm
+- apiTypescript
 
 ## FrontEnd Web branchs
 
