@@ -1,24 +1,7 @@
-# PERN
+# Awesome Project Build with TypeORM
 
-Repositório para armazenar backbone de um projeto baseado na arquitetura de microserviços. Utilizando node, react e react native.
+Steps to run this project:
 
-## API branchs
-
-- apiInicial
-- apiCrudMemória
-- apiCrudLibPG
-- apiTypeOrm
-
-## FrontEnd Web branchs
-
--
--
--
-
-## FrontEnd Mobile branchs
-
--
--
--
-
-
+1. Run `npm i` command
+2. Setup database settings inside `data-source.ts` file
+3. Run `npm start` command
